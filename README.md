@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This repository contains a basic ASP.NET Web API application to demonstrate how to use Azure Key Vault and Azure Managed Identities.
 
 The following article describes the implementation details: [Secrets Access with Managed Identities in .NET Applications](https://auth0.com/blog/secrets-access-managed-identities-dotnet/)
@@ -30,3 +31,6 @@ The following article describes the implementation details: [Secrets Access with
 
 7. Run the application using Visual Studio or by running the command `dotnet run`.
 
+=======
+# webapp-secret-MI
+>>>>>>> origin/main
